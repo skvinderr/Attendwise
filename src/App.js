@@ -43,7 +43,8 @@ const mockStudentData = {
         Friday: [
             { time: "11:00 - 12:00", subject: "Discrete Mathematics", room: "C-104", faculty: "Dr. Green" },
         ],
-        Saturday: [],
+        Saturday: [ { time: "11:00 - 12:00", subject: "Discrete Mathematics", room: "C-104", faculty: "Dr. Green" },
+                   { time: "11:00 - 12:00", subject: "Discrete Mathematics", room: "C-104", faculty: "Dr. Green" },],
         Sunday: [],
     }
 };
